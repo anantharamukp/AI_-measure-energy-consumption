@@ -4,6 +4,20 @@
 ## Overview
 This project is designed to measure and analyze energy consumption in [describe the context - e.g., residential buildings, industrial facilities, or renewable energy systems]. It includes [briefly describe the main features of your project].
 
+data source : https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+reference : kaggle.com
+## how to run the code and any dependency :
+ measure energy consumption
+## how to run :
+install Jupiter notebook on your command prompt 
+# pip install jupyter lab
+# pip install jupyter notebook(or)
+  1. download anaconda community software for desktop
+  2. install the anaconda community
+  3. open jupyter notebook
+  4. type the code and execute the given code
+
+ 
 ## Table of Contents
 - [Installation](#installation)
 - [Dependencies](#dependencies)
@@ -17,9 +31,9 @@ This project is designed to measure and analyze energy consumption in [describe 
 ## Installation
 Provide instructions on how to install your project. Include any specific setup steps, prerequisites, or system requirements. Use code blocks for terminal commands when applicable.
 
-```bash
+
 # Clone the repository
-git clone 
+git clone https://github.com/Raghul2103/AI_-measure-energy-consumption-...git
 
 # Change to the project directory
 cd your-project
@@ -27,7 +41,6 @@ cd your-project
 # Install required packages (if any)
 pip install -r requirements.txt
 ```
-
 ## Dependencies
 List and briefly explain any third-party libraries, packages, or tools that your project relies on. Include version information and links to their documentation.
 
@@ -37,7 +50,6 @@ List and briefly explain any third-party libraries, packages, or tools that your
 ## Usage
 Explain how to use your project. Provide sample code or command-line examples to demonstrate the main functionalities. Offer guidance for users to interact with your project effectively.
 
-```bash
 # Example usage
 python main.py --input input_file.csv --output output_file.csv
 ```
@@ -59,8 +71,8 @@ Specify the license under which your project is released. Include a link to the 
 
 Certainly, including information about the data source and a brief description in your README file is essential for transparency and understanding your energy consumption measurement project. Here's how you can add this section to your README:
 
-```markdown
-# Data Source
+
+# Data Source : https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## Data Description
 The data used in this project is sourced from [Name of Data Source], which provides [briefly describe the source's purpose and data collection method, e.g., real-time energy consumption data from a network of smart meters in commercial buildings]. The data includes information on [list key data attributes, e.g., energy consumption in kilowatt-hours (kWh), time stamps, and building identifiers].
@@ -71,8 +83,8 @@ Access to the data source can be obtained from [Include URL or contact informati
 ## Data Preprocessing
 [Optional] If your project involves data preprocessing steps, provide details on how the raw data is prepared for analysis. This might include cleaning, filtering, or aggregating the data.
 
-```markdown
-# Data Source
+
+# Data Source : https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## Data Description
 The data used in this project is sourced from the U.S. Environmental Protection Agency's ENERGY STAR Portfolio Manager, which provides real-time energy consumption data for commercial buildings. The data includes information on energy consumption in kilowatt-hours (kWh), water usage, and greenhouse gas emissions, along with building details and location information.
