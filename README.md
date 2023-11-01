@@ -33,7 +33,7 @@ Provide instructions on how to install your project. Include any specific setup 
 
 
 # Clone the repository
-git clone https://github.com/Raghul2103/AI_-measure-energy-consumption-...git
+git clone https://github.com/anantharamukp/AI_-measure-energy-consumption
 
 # Change to the project directory
 cd your-project
